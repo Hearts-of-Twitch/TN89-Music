@@ -1,0 +1,36 @@
+music = {
+	name = "bsgg"
+	file = "neiro/bsgg.ogg"
+}
+music = {
+	name = "bozhzov"
+	file = "neiro/bozhzov.ogg"
+}
+music = {
+	name = "efir"
+	file = "neiro/efir.ogg"
+}
+music = {
+	name = "ng"
+	file = "neiro/ng.ogg"
+}
+music = {
+	name = "Incelcore"
+	file = "neiro/IncelCore.ogg"
+}
+music = {
+	name = "mitya"
+	file = "neiro/mitya.ogg"
+}
+music = {
+	name = "lim"
+	file = "neiro/lim.ogg"
+}
+music = {
+	name = "vert"
+	file = "neiro/vert.ogg"
+}
+music = {
+	name = "simv"
+	file = "neiro/simv.ogg"
+} 

@@ -1,0 +1,28 @@
+music = {
+	name = "smehgoy"
+	file = "trash/smehgoy.ogg"
+}
+music = {
+	name = "zoopark"
+	file = "trash/zoopark.ogg"
+}
+music = {
+	name = "polkovnik"
+	file = "trash/polkovnik.ogg"
+}
+music = {
+	name = "olddom"
+	file = "trash/olddom.ogg"
+}
+music = {
+	name = "domoy"
+	file = "trash/domoy.ogg"
+}
+music = {
+	name = "dolgaya"
+	file = "trash/dolgaya.ogg"
+}
+music = {
+	name = "dead"
+	file = "trash/dead.ogg"
+}

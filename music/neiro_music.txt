@@ -1,0 +1,82 @@
+music_station = "neiro_station"
+music = {
+	song = "bsgg"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "efir"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "ng"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "bozhzov"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+} 
+music = {
+	song = "simv"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "vert"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "lim"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "mitya"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "Incelcore"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}

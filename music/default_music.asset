@@ -1,0 +1,40 @@
+music = {
+	name = "test_song"
+	file = "default/load_old.ogg"
+}
+music = {
+	name = "yashiki"
+	file = "default/yashiki.ogg"
+}
+music = {
+	name = "Lyapis_Capital"
+	file = "default/Lyapis_Capital.ogg"
+}
+music = {
+	name = "lida_dans"
+	file = "default/lida_dans.ogg"
+}
+music = {
+	name = "lida_dans"
+	file = "default/lida_dans.ogg"
+}
+music = {
+	name = "mzlff_porov"
+	file = "default/mzlff_porov.ogg"
+}
+music = {
+	name = "Supersonic"
+	file = "default/Supersonic.ogg"
+}
+music = {
+	name = "morgen"
+	file = "default/morgen.ogg"
+}
+music = {
+	name = "pozh"
+	file = "default/pozh.ogg"
+}
+music = {
+	name = "Chuchuka"
+	file = "default/Chuchuka.ogg"
+}

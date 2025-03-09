@@ -1,0 +1,28 @@
+music_station = "war_station"
+music = {
+	song = "kogdavoyna"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "polushkapole"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "temnoch"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}

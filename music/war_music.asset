@@ -1,0 +1,12 @@
+music = {
+	name = "kogdavoyna"
+	file = "war/kogdavoyna.ogg"
+}
+music = {
+	name = "polushkapole"
+	file = "war/polushkapole.ogg"
+}
+music = {
+	name = "temnoch"
+	file = "war/48717724.ogg"
+}
