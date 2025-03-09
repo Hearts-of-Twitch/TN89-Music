@@ -1,4 +1,4 @@
-version="1.0"
+version="1.1"
 tags={
 	"Sound"
 }
@@ -7,5 +7,5 @@ picture="thumbnail.png"
 dependencies={
 	"The new 89: Last Days of Twitch"
 }
-supported_version="1.15.2"
+supported_version="1.16.0"
 remote_file_id="3431258015"
